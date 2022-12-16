@@ -1,5 +1,7 @@
 Group Recommender use Flask as the back-end and Javascript especially D3 package to build the front-end and visualization. The recommender system is matrix-factorization based, with modification to adopt group-specific behavior.
 
+
+https://user-images.githubusercontent.com/91752785/208131268-8e81b38e-1890-4e2a-9169-a67b97f2ee1a.mp4
 # Installation
 
 **BEWARE: FIRST TIME INSTALLATION WILL DOWNLOAD A PRE-TRAINED MODEL (440MB)**
