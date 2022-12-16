@@ -1,11 +1,15 @@
 # TV Show Group Reccomendation System
 
+## Introduction:
+Anime are Japanese animated TV shows that are extremely popular around the world. Sometimes when trying to figure out what TV show to watch with a group of people, it is difficult to reconcile the preferences of everyone. This project applies machine learning modeling and big data visualization skills to figure out an effective method of selecting an anime everyone will enjoy! 
 
+This project builds a system that can recommend anime to a group based on their past viewing history and the collective viewing history of a set of users. A dataset based on MyAnimeList (MAL), which includes different animes in MAL, which anime users have watched, and the users’ ratings.
+ 
 Group Recommender use Flask as the back-end and Javascript especially D3 package to build the front-end and visualization. The recommender system is matrix-factorization based, with modification to adopt group-specific behavior.
 
 https://user-images.githubusercontent.com/91752785/208131520-f3dec102-1fc9-49ec-a4ef-207f273e38ba.mp4
 
-# Installation
+# Installation and Setup
 
 **BEWARE: FIRST TIME INSTALLATION WILL DOWNLOAD A PRE-TRAINED MODEL (440MB)**
 
