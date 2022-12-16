@@ -5,7 +5,7 @@ Group Recommender use Flask as the back-end and Javascript especially D3 package
 **BEWARE: FIRST TIME INSTALLATION WILL DOWNLOAD A PRE-TRAINED MODEL (440MB)**
 
 ## On Linux/Mac OS
-First, navigate to this directory in Terminal, then create a new virtual environment, you can use [conda](https://docs.anaconda.com/anaconda/install/index.html) using the shell script below, or any other software.
+First, clone this repo and navigate to this directory in Terminal, then create a new virtual environment, you can use [conda](https://docs.anaconda.com/anaconda/install/index.html) using the shell script below, or any other software.
 
 ```bash
 conda create -n group_rec python=3.9
@@ -27,7 +27,7 @@ python main.py
 The application should be ready in the local host at port "5000". You can access it by open your browser and go to this url `http://127.0.0.1:5000`.
 
 ## On Windows
-First, navigate to this directory in your command prompt, then create a new virtual environment, you can use [conda](https://docs.anaconda.com/anaconda/install/index.html) using the shell script below, or any other software.
+First, clone this repo and navigate to this directory in your command prompt, then create a new virtual environment, you can use [conda](https://docs.anaconda.com/anaconda/install/index.html) using the shell script below, or any other software.
 
 ```bash
 conda create -n group_rec python=3.9
