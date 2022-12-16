@@ -1,3 +1,6 @@
+# TV Show Group Reccomendation System
+
+
 Group Recommender use Flask as the back-end and Javascript especially D3 package to build the front-end and visualization. The recommender system is matrix-factorization based, with modification to adopt group-specific behavior.
 
 https://user-images.githubusercontent.com/91752785/208131520-f3dec102-1fc9-49ec-a4ef-207f273e38ba.mp4
