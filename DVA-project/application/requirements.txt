@@ -1,9 +1,0 @@
-flask
-flask-restful
-pandas
-fuzzywuzzy
-beautifulsoup4
-requests
-numpy
-scikit-learn
-gdown
